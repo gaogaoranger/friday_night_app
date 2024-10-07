@@ -99,7 +99,7 @@ function Router() {
         <Stack.Screen
           name={SceneName.EditProfile}
           options={{
-            headerTitle: "Crie seu perfil",
+            headerTitle: "Create your profile",
             headerShown: true,
             headerStyleInterpolator: HeaderStyleInterpolators.forUIKit,
           }}

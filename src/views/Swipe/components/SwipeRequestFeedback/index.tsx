@@ -19,8 +19,8 @@ export const EmptyComponent = () => {
     <Container>
       <Content>
         <EmptyAnimation />
-        <Title>Oops, os matches acabaram</Title>
-        <ContainedText>Volte mais tarde 😉</ContainedText>
+        <Title>Oops, the matches are over</Title>
+        <ContainedText>Come back later 😉</ContainedText>
       </Content>
     </Container>
   );
